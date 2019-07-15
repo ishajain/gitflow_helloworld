@@ -1,0 +1,16 @@
+{
+  "name": "git-flow-helloworld",
+  "version": "1.0.0",
+  "description": "Git Flow",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "author": "Isha Jain",
+  "license": "ISC"
+}
